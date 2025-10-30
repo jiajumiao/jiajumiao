@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Jiaju 👋
 
-<!--
-**jiajumiao/jiajumiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Quant | Model Risk | AI & Finance | Stats PhD**
 
-Here are some ideas to get you started:
+- 🔭 Currently: model risk & governance (CCAR/CECL), financial modeling, ensemble methods
+- 📚 Research: online learning, concept drift, PRC trees, RL coursework (CS7642)
+- 🥊 Boxing: training notes, analytics, and the occasional fight breakdown
+- 🌐 Website: https://jiajumiao.github.io
+- ✉️ Reach me: miaojiaju@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Quick Links
+- 📄 [CV](#) · 🎓 [Google Scholar](#) · 🧪 [Projects](https://github.com/jiajumiao?tab=repositories)
+
+## Recent Writing
+- Financial ensemble learning: quick reading list
+- Boxing: training metrics that matter
