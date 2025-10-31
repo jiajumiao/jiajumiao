@@ -1,9 +1,9 @@
 # Hi, I'm Jiaju 👋
 
-**Quant | Model Risk | AI & Finance | Stats PhD**
+**Quant | AI & Finance | Stats PhD | Boxer**
 
-- 🔭 Currently: model risk & governance (CCAR/CECL), financial modeling, ensemble methods
-- 📚 Research: online learning, concept drift, PRC trees, RL coursework (CS7642)
+- 🔭 Currently: reinforcement learning, financial modeling, ensemble methods
+- 📚 Research: online learning, PRC trees
 - 🥊 Boxing: training notes, analytics, and the occasional fight breakdown
 - 🌐 Website: https://jiajumiao.github.io
 - ✉️ Reach me: miaojiaju@gmail.com
