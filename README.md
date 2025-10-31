@@ -9,7 +9,7 @@
 - ✉️ Reach me: miaojiaju@gmail.com
 
 ## Quick Links
-- 📄 [CV](#) · 🎓 [Google Scholar](#) · 🧪 [Projects](https://github.com/jiajumiao?tab=repositories)
+- 📄 [CV](#) · 🎓 [Google Scholar](https://scholar.google.com/citations?hl=en&user=WwrjXeEAAAAJ&view_op=list_works) · 🧪 [Projects](https://github.com/jiajumiao?tab=repositories)
 
 ## Recent Writing
 - Financial ensemble learning: quick reading list
